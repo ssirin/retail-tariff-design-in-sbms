@@ -10,3 +10,5 @@ Supplementary material for "Pricing the energy transition: Retail tariff designs
 - [`appendix-F-sensitivity-analysis.pdf`](appendix-F-sensitivity-analysis.pdf): Online Appendix F. The sensitivity analysis: the runs and their losses (Tables F.1 and F.2, Figure F.1), transmission and distribution losses (Table F.3), the timing of renewable output (Figure F.2), the merit order and the consumption tiers (Table F.4), the allocation of costs among consumer groups (Table F.5) and the capacity channel of critical-peak pricing.
 
 Each appendix says at the top which of its references are to the paper and which are to the other online appendices.
+
+Lean and Claude Code were used to check the theorems and proofs, and Claude Code to check the code and to revise the text.
